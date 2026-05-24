@@ -1,0 +1,16 @@
+{
+  "name": "fitness-tracker-event-driven",
+  "version": "1.0.0",
+  "description": "Event Driven Architecture Lab",
+  "main": "producer.js",
+
+  "scripts": {
+    "producer": "node producer.js",
+    "consumer": "node consumer.js"
+  },
+
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "uuid": "^11.1.0"
+  }
+}
