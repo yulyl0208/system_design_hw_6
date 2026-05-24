@@ -1,4 +1,4 @@
-# Fitness Tracker — Event-Driven Architecture
+# Fitness Tracker 
 
 ## Описание проекта
 
